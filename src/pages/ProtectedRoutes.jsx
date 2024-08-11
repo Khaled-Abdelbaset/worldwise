@@ -3,8 +3,8 @@ import { useAuth } from "../context/FakeAuthContext";
 import { useEffect } from "react";
 
 function ProtectedRoutes({ children }) {
-  const { isAuthenticated } = useAuth();
   const navigate = useNavigate();
+  const { isAuthenticated } = useAuth();
 
   useEffect(() => {
     if (!isAuthenticated) navigate("/");
