@@ -31,8 +31,7 @@ Run the application locally with:
 - npm start
 
 
-- **This will start the development server and JSON-Server and open the application in your default browser.
-- **You can interact with the map, click on countries, and add notes about your travels.
+This will start the development server and JSON-Server and open the application in your default browser. You can interact with the map, click on countries, and add notes about your travels.
 
 ## Contact
 For any inquiries or feedback, please reach out khaledabdelbaset98@gmail.com.
