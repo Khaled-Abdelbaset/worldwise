@@ -28,7 +28,7 @@ To get started with WorldWise, clone the repository and install the dependencies
 Run the application locally with:
 
 - npm run server
-- npm start
+- npm run dev
 
 
 This will start the development server and JSON-Server and open the application in your default browser. You can interact with the map, click on countries, and add notes about your travels.
