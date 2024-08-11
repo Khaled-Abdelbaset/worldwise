@@ -20,15 +20,15 @@
 
 To get started with WorldWise, clone the repository and install the dependencies:
 
-- **git clone https://github.com/Khaled-Abdelbaset/worldwise.git
-- **cd worldwise
-- **npm install
+- git clone https://github.com/Khaled-Abdelbaset/worldwise.git
+- cd worldwise
+- npm install
 
 ## Usage
 Run the application locally with:
 
-- **npm run server
-- **npm start
+- npm run server
+- npm start
 
 
 - **This will start the development server and JSON-Server and open the application in your default browser.
